@@ -27,7 +27,6 @@ main {
   }
 
 .firstIMG{
-    border-radius: 1px;
     width: 100%;
     max-height: 800px;
 }
@@ -50,4 +49,10 @@ main {
 
 .text_section1 p{
     font-size: 18px;
+}
+
+/* Video Section */
+.main_video video{
+    width: 100%;
+    margin: 140px 0px;
 }
