@@ -192,7 +192,6 @@ footer .bottom{
   background: transparent;
   background-color: #eee;
   border: 0;
-  user-select: none;
   height: 1.875rem;
   padding: 0.35em 50px 0.35em 0.75em;
   border-radius: 0;
@@ -207,6 +206,7 @@ footer .bottom{
 
 .main-footer__form__element--select.has-auto-width {
   display: inline-block;
+}
   
 *{
     box-sizing: border-box;
